@@ -27,7 +27,7 @@ jobs:
           cd simple-api
           mvn -B verify sonar:sonar \
               -Dsonar.projectKey=GaboNueve_devops-livecoding \
-              -Dsonar.organization=GaboNueve \
+              -Dsonar.organization=gabonueve \
               -Dsonar.host.url=https://sonarcloud.io \
               -Dsonar.login=${{ secrets.SONAR_TOKEN }}
  
