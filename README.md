@@ -1,4 +1,3 @@
-# devops-livecoding
 # DevOps Livecoding: Ansible & Docker Project
 
 ## Introduction
