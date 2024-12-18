@@ -230,3 +230,9 @@ Run the playbook with the following command:
 ansible-playbook -i inventories/setup.yml playbook.yml
 ```
 
+![image](https://github.com/user-attachments/assets/4fbb0b19-5e56-4f4c-b31b-ef700cbdd536)
+
+![image](https://github.com/user-attachments/assets/9d961b1d-c26c-48ca-b184-de5e0f2b52eb)
+![image](https://github.com/user-attachments/assets/7b5aaa56-227e-4d2f-9a1a-ff03b9ce887b)
+
+
